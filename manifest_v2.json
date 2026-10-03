@@ -65,7 +65,7 @@
           "id": "canopus_manager"
         }
       ],
-      "recommend": [
+      "recommended": [
         {
           "type": "resource",
           "id": "canopus_corona"
